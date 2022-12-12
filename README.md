@@ -1,10 +1,8 @@
-# Final_APP_Flex
-
-# Flexmoney_assignment
-
 # see the live website 
+   [yoga_application_form]( https://yash007.pythonanywhere.com/).
 
-     https://yash007.pythonanywhere.com/
+
+Flexmoney_assignment
 
 
 
@@ -88,12 +86,15 @@ This is a complte Yoga application Form with backend intigraded.
 
 
 
+![8](https://user-images.githubusercontent.com/66213227/207057102-f8f816e5-e8f7-4dcf-a91b-0abab1f6bb0f.png)
 
 
 ![9](https://user-images.githubusercontent.com/66213227/207027373-8a57d72a-bacd-4236-ac45-a9900af172d8.png)
 
 
 
+
+![10](https://user-images.githubusercontent.com/66213227/207057172-2515b94e-c994-47b4-9996-0691e9b5ecd9.png)
 
 
 
